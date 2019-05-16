@@ -6,13 +6,13 @@ This code simulations a shell in your terminal.
 
 2). Typing ctrl-c or ctrl-z shall not stop or kill your shell. ctrl-z
 
-    shall suspend the currently running process. ctrl-c shall stop the currently running
+   shall suspend the currently running process. ctrl-c shall stop the currently running
     
-    process. 
+   process. 
 
 3). Can list last 15 pids by typing "listpids" and keeps track of last 50 history commands
 
-    and can call one by "!n" where n is the history number.
+   and can call one by "!n" where n is the history number.
 
 4). has bg command which suspends a process to a background.
 
